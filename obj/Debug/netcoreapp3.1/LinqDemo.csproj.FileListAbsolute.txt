@@ -1,0 +1,13 @@
+D:\Users\Administrator\source\repos\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.exe
+D:\Users\Administrator\source\repos\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.deps.json
+D:\Users\Administrator\source\repos\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.runtimeconfig.json
+D:\Users\Administrator\source\repos\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.runtimeconfig.dev.json
+D:\Users\Administrator\source\repos\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.dll
+D:\Users\Administrator\source\repos\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.pdb
+D:\Users\Administrator\source\repos\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.csprojAssemblyReference.cache
+D:\Users\Administrator\source\repos\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.AssemblyInfoInputs.cache
+D:\Users\Administrator\source\repos\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.AssemblyInfo.cs
+D:\Users\Administrator\source\repos\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\source\repos\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.dll
+D:\Users\Administrator\source\repos\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.pdb
+D:\Users\Administrator\source\repos\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.genruntimeconfig.cache
